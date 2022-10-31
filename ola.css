@@ -1,0 +1,416 @@
+body{
+    margin: 0px;
+}
+#container{
+    margin: 0px;
+    width: 100%;
+    height: 4500px;
+    background: green;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background: black;
+    position: fixed;
+}
+.icon{
+    padding-left: 88px;
+    padding-top: 32px;
+}
+.button{
+    margin-left: 85%;
+    margin-top: -21px;
+}
+.button-style{
+    color: #32c86e;
+    font-weight: bolder;
+    background: black;
+}
+.hamberger{
+    margin-left: 92%;
+    margin-top: -21px;
+}
+.select{
+    width: 20px;
+}
+.content{
+    width: 100%;
+    height:90%;
+    background-color:white;
+}
+.box1{
+    width: 100%;
+    height :17%;
+    background-image: url(https://d34kmefuuy0be0.cloudfront.net/ev_assets/Web_Air_78e46eb925.webp);
+    background-position: 50%;
+    background-size: cover;
+}
+.box1button{
+    padding-top: 490px;
+    text-align: center;
+   
+}
+.buttonstyle{
+    width: 150px;
+    height: 36px;
+}
+.box2{
+    width: 100%;
+    height :17%;
+    background-color:white;
+}
+.box2-content1{
+    width: 50%;
+    height:100%;
+    background: white;
+    float: left;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.box2-content2{
+    width: 50%;
+    height:100%;
+    background: white;
+    float: left;
+
+}
+.img{
+    width: 55%;
+    height: 74%;
+    padding-top: 14%;
+    padding-left: 18%;
+}
+.box2-content2-heading
+{
+    font-family: Gentona;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 104%;
+    letter-spacing: -1px;
+    color: #000;
+    text-shadow: 1.152px 1.152px 0 #fff, 1.728px 1.728px 0 #92c83e;
+    margin: 0 0 20px;
+    padding-top: 58px;
+    padding-left: 43px
+     
+}
+.box2-content2-desc{
+    padding-left: 58px;
+}
+.box2-content2-desc1{
+    padding-left: 81px;
+    margin-block-start: -21px;
+    margin-block-end: 34px;
+    font-weight: 400;
+}
+.box3{
+    width: 100%;
+    height :17%;
+    background-color:white;
+}
+.box3-header{
+    width: 100%;
+    height: 20%;
+    background:white;
+    float: left;
+}
+.box3-header-left{
+    width: 53%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    font-family: Gentona Medium;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 157%;
+    letter-spacing: -1px;
+    color: #000;
+    text-shadow: 1.152px 1.152px 0 #fff, 1.728px 1.728px 0 #92c83e;
+    
+}
+.box3-header-right{
+    width: 47%;
+    height: 100%;
+    float: left;
+}
+.box3-button{
+    width: 327px;
+    height: 49px;
+    display: block;
+    margin: 43px 216px;
+}
+.box3-button1{
+    bottom: 132px;
+    right: 350px;
+    width: 160px;
+    height: 49px;
+    border: white;
+    background: lightgrey;
+}
+.box3-button2{
+    bottom: 132px;
+    right: 184px;
+    background: black;
+    color: white;
+    width: 160px;
+    height: 49px;
+}
+.box3-content{
+    width: 100%;
+    height: 100%;
+    background:white;
+}
+.box3-content-inner{
+    float: right;
+    margin-right: 216px;
+    margin-top: 28px;
+    width: 70%;
+    height: 70%;
+    background-color: #fff;
+}
+.card1{
+    width: 28%;
+    height: 100%;
+    float: left; 
+}
+.card2{
+    width: 28%;
+    height: 100%;
+    float: left;
+    margin-left: 90px;
+}
+.card3{
+    width: 28%;
+    height: 100%;
+    float: left;
+    margin-left: 80px;
+}
+.card-container{
+    padding: 130px 0px;
+}
+.card-container-img{
+    margin: -126px 0px 0px 0px;
+}
+.card-container-para{
+    font-weight: 400;
+    font-size: larger;
+    margin: 0px 0px -129px 0px;
+    color: rgba(84, 83, 83, 0.985);
+}
+.box4{
+    width: 100%;
+    height: 35%;
+    background-color:black
+}
+.box4-videotext{
+    width: 47%;
+    height: 14%;
+    background-color: black;
+    margin: -40px 0px 0px 288px;
+    font-family: Gentona Medium;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 1097%;
+    letter-spacing: -2px;
+    color: #fff;
+    text-shadow: 1.152px 1.152px 0 #000, 1.728px 1.728px 0 #92c83e;
+}
+.box4-video{
+    width: 56%;
+    height: 34%;
+    background-color: black;
+    margin: 0px 0px 0px 287px;
+    object-fit: cover;
+}
+.box4-video-desp{
+    height: 40px;
+    width: 100%;
+}
+.box4-second-header{
+    width: 100%;
+    height: 10%;
+    background:white;
+    float: left;
+
+}
+.box4-second-header-element{
+    max-width: 410px;
+    font-family: Gentona Medium;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 104%;
+    letter-spacing: -1px;
+    color: #000;
+    text-shadow: 1.152px 1.152px 0 #fff, 1.728px 1.728px 0 #92c83e;
+    margin: 29px 0px 10px 289px;
+}
+.box4-content{
+    width: 100%;
+    height: 50%;
+    background:white;
+
+}
+.box5{
+    width: 100%;
+    height: 14%;
+    background-color: rgb(107, 69, 19);
+}
+.box5-container{
+    width: 100%;
+    height: 100%;
+    background-color:#fff;
+}
+.box5-header{
+    width: 100%;
+    height: 14%;
+    background-color: white;
+}
+.box5-header-desc{
+    font-family: Gentona Medium;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 222%;
+    letter-spacing: -0.02em;
+    margin: 0px 0px 29px 32px;
+}
+.box5-card-container{
+    width: 100%;
+    height: 86%;
+    background-color:white;
+    margin: -27px 0px 0px 0px;
+
+    
+}
+.box5-card1{
+    width: 28%;
+    height: 89%;
+    margin: 53px 0px 0px 30px;
+    float: left;
+}
+.box5-card-desc{
+    color: black;
+}
+.box5-card2{
+    width: 28%;
+    height: 89%;
+    margin: 53px 0px 0px 30px;
+    float: left;
+}
+.box5-card3{
+    width: 28%;
+    height: 89%;
+    margin: 53px 0px 0px 30px;
+    float: left;
+}
+.footer{
+    width: 100%;
+    height: 10%;
+    background: #f2f4f6;
+}
+.footer-head{
+    width: 100%;
+    height: 22%;
+    background: #f2f4f6;
+}
+.footer-img1{
+    width: 2%;
+    height: 22%;
+    padding: 62px 8px 0px 256px;
+}
+.footer-content{
+    width: 62%;
+    height: 47%;
+    background: #f2f4f6;
+    margin-left: 255px;
+}
+.footer-content-left{
+    width: 50%;
+    height: 100%;
+    float:left;
+
+}
+.stayuptodate{
+    font-family: "Gentona Medium Italic";
+    font-weight: bolder;
+    font-size: 48px;
+    line-height: 50px;
+    letter-spacing: -1px;
+    color: rgb(0, 0, 0);
+    text-shadow: rgb(255 255 255) 1.152px 1.152px 0px, rgb(146 200 62) 1.728px 1.728px 0px;
+    margin: 0px;
+}
+.footer-content-right{
+    width: 50%;
+    height: 100%;
+    float:left;
+
+}
+#footer-email{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.01em;
+    color: rgb(112, 112, 112);
+    background: rgb(255, 255, 255);
+    border: 2.5px solid rgb(224, 224, 224);
+    padding: 16px;
+    width: 57%;
+}
+.subscibetonews{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    background: #000;
+    box-shadow: rgb(50 200 110) -3px 3px 0px;
+    padding: 18px;
+    margin: 6px 2px;
+}
+.footer-content-right-element{
+    width: 76%;
+    height: 87%;
+    background: rgb(232, 236, 239);
+    margin: -8px 0px 6px 32px;
+}
+.footer-last{
+    width: 80%;
+    height: 30%;
+    background: #f2f4f6;
+    margin: -5px 0px 0px 117px;
+}
+.footer-last1{
+    width: 100%;
+    height: 50%;
+    background: #f2f4f6;
+    float: left;
+    margin: -10px 0px -3px 0px;
+}
+.footer-last2{
+    width: 100%;
+    height: 50%;
+    background: #f2f4f6;
+    float: left;
+    margin: -10px 0px -3px 0px;
+    text-align: center;
+}
+.footer-last1-img{
+    height: 33px;
+    background: #f2f4f6;
+    float: left;
+}
+.footer-last1-desc{
+    width: 84%;
+    height: 57%;
+    background: #f2f4f6;
+    float: left;
+    margin: 0px 0px 0px 108px;
+    line-height: 38px;
+}
+.footer-last1-hyperlink{
+    margin-right: 20px;
+    float: left;
+}
